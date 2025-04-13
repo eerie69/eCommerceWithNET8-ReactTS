@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\timda\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\DemoShopWithReactAndNET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D0EAB75-91FA-4AA4-803E-FF7C71498FA1}|api\\api.csproj|c:\\users\\timda\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\demoshopwithreactandnet\\api\\interfaces\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D0EAB75-91FA-4AA4-803E-FF7C71498FA1}|api\\api.csproj|solutionrelative:api\\interfaces\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D0EAB75-91FA-4AA4-803E-FF7C71498FA1}|api\\api.csproj|c:\\users\\timda\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\demoshopwithreactandnet\\api\\repository\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D0EAB75-91FA-4AA4-803E-FF7C71498FA1}|api\\api.csproj|solutionrelative:api\\repository\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D0EAB75-91FA-4AA4-803E-FF7C71498FA1}|api\\api.csproj|c:\\users\\timda\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\demoshopwithreactandnet\\api\\dtos\\cart\\cartquantitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D0EAB75-91FA-4AA4-803E-FF7C71498FA1}|api\\api.csproj|solutionrelative:api\\dtos\\cart\\cartquantitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D0EAB75-91FA-4AA4-803E-FF7C71498FA1}|api\\api.csproj|c:\\users\\timda\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\demoshopwithreactandnet\\api\\models\\cartdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D0EAB75-91FA-4AA4-803E-FF7C71498FA1}|api\\api.csproj|solutionrelative:api\\models\\cartdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D0EAB75-91FA-4AA4-803E-FF7C71498FA1}|api\\api.csproj|c:\\users\\timda\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\demoshopwithreactandnet\\api\\mappers\\cartmappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D0EAB75-91FA-4AA4-803E-FF7C71498FA1}|api\\api.csproj|solutionrelative:api\\mappers\\cartmappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D0EAB75-91FA-4AA4-803E-FF7C71498FA1}|api\\api.csproj|c:\\users\\timda\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\demoshopwithreactandnet\\api\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D0EAB75-91FA-4AA4-803E-FF7C71498FA1}|api\\api.csproj|solutionrelative:api\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D0EAB75-91FA-4AA4-803E-FF7C71498FA1}|api\\api.csproj|c:\\users\\timda\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\demoshopwithreactandnet\\api\\dtos\\cart\\cartdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D0EAB75-91FA-4AA4-803E-FF7C71498FA1}|api\\api.csproj|solutionrelative:api\\dtos\\cart\\cartdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 342,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ICartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\timda\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\DemoShopWithReactAndNET\\api\\Interfaces\\ICartRepository.cs",
+              "RelativeDocumentMoniker": "api\\Interfaces\\ICartRepository.cs",
+              "ToolTip": "C:\\Users\\timda\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\DemoShopWithReactAndNET\\api\\Interfaces\\ICartRepository.cs",
+              "RelativeToolTip": "api\\Interfaces\\ICartRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T13:13:10.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\timda\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\DemoShopWithReactAndNET\\api\\Repository\\CartRepository.cs",
+              "RelativeDocumentMoniker": "api\\Repository\\CartRepository.cs",
+              "ToolTip": "C:\\Users\\timda\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\DemoShopWithReactAndNET\\api\\Repository\\CartRepository.cs",
+              "RelativeToolTip": "api\\Repository\\CartRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T13:04:18.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CartQuantityDto.cs",
+              "DocumentMoniker": "C:\\Users\\timda\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\DemoShopWithReactAndNET\\api\\Dtos\\Cart\\CartQuantityDto.cs",
+              "RelativeDocumentMoniker": "api\\Dtos\\Cart\\CartQuantityDto.cs",
+              "ToolTip": "C:\\Users\\timda\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\DemoShopWithReactAndNET\\api\\Dtos\\Cart\\CartQuantityDto.cs",
+              "RelativeToolTip": "api\\Dtos\\Cart\\CartQuantityDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T13:03:54.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CartDetailDto.cs",
+              "DocumentMoniker": "C:\\Users\\timda\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\DemoShopWithReactAndNET\\api\\Dtos\\Cart\\CartDetailDto.cs",
+              "RelativeDocumentMoniker": "api\\Dtos\\Cart\\CartDetailDto.cs",
+              "ToolTip": "C:\\Users\\timda\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\DemoShopWithReactAndNET\\api\\Dtos\\Cart\\CartDetailDto.cs",
+              "RelativeToolTip": "api\\Dtos\\Cart\\CartDetailDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T12:23:22.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CartDetail.cs",
+              "DocumentMoniker": "C:\\Users\\timda\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\DemoShopWithReactAndNET\\api\\Models\\CartDetail.cs",
+              "RelativeDocumentMoniker": "api\\Models\\CartDetail.cs",
+              "ToolTip": "C:\\Users\\timda\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\DemoShopWithReactAndNET\\api\\Models\\CartDetail.cs",
+              "RelativeToolTip": "api\\Models\\CartDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T09:37:58.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReviewsController.cs",
+              "DocumentMoniker": "C:\\Users\\timda\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\DemoShopWithReactAndNET\\api\\Controllers\\ReviewsController.cs",
+              "RelativeDocumentMoniker": "api\\Controllers\\ReviewsController.cs",
+              "ToolTip": "C:\\Users\\timda\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\DemoShopWithReactAndNET\\api\\Controllers\\ReviewsController.cs",
+              "RelativeToolTip": "api\\Controllers\\ReviewsController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowDcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T09:34:55.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CartMappers.cs",
+              "DocumentMoniker": "C:\\Users\\timda\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\DemoShopWithReactAndNET\\api\\Mappers\\CartMappers.cs",
+              "RelativeDocumentMoniker": "api\\Mappers\\CartMappers.cs",
+              "ToolTip": "C:\\Users\\timda\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\DemoShopWithReactAndNET\\api\\Mappers\\CartMappers.cs",
+              "RelativeToolTip": "api\\Mappers\\CartMappers.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T23:56:16.712Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
